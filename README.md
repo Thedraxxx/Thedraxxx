@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack & Mobile App Developer | 🔁 1% Better Everyday</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Crafting+web+%26+mobile+apps+with+passion;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Crafting+apps+with+passion;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
